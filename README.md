@@ -1,16 +1,97 @@
-# React + Vite
+# Md Ashif Ansari — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive developer portfolio built with React.js and Tailwind CSS to showcase my skills, projects, experience, education, and contact information.
 
-Currently, two official plugins are available:
+## Live Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+[View Portfolio](YOUR_PORTFOLIO_NETLIFY_URL)
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I am Md Ashif Ansari, a B.Tech graduate in Artificial Intelligence and Machine Learning from Techno International New Town, completed in 2025.
 
-## Expanding the ESLint configuration
+I am a frontend-focused developer with hands-on experience building responsive web applications using React.js, JavaScript, Redux Toolkit, React Router, Tailwind CSS, and REST APIs. I am currently expanding my skills toward full-stack MERN development.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies
+
+- React.js
+- JavaScript
+- Redux Toolkit
+- React Router
+- Tailwind CSS
+- HTML5
+- CSS3
+- REST APIs
+- Git
+- GitHub
+- Vite
+
+## Portfolio Sections
+
+- Hero
+- About
+- Skills
+- Projects
+- Experience
+- Education
+- Contact
+- Resume Download
+- Responsive Navigation
+
+## Featured Projects
+
+### Job Portal Dashboard
+
+A responsive job portal dashboard featuring authentication UI, job listings, search, filtering, profile management, notifications, and dashboard functionality.
+
+- [Live Demo](https://ashif-job-portal.netlify.app/)
+- [GitHub](https://github.com/AshifAnsari01/job-portal-frontend)
+
+### E-Commerce Website
+
+A responsive e-commerce application with product browsing, search, filtering, product details, shopping cart, wishlist, and centralized state management.
+
+- [Live Demo](https://shopeasereact.netlify.app/)
+- [GitHub](https://github.com/AshifAnsari01/Ecommerce-Website)
+
+### Currency Converter
+
+A responsive currency conversion application using exchange-rate API data.
+
+- [Live Demo](https://currencyconvertor010.netlify.app/)
+- [GitHub](https://github.com/AshifAnsari01/Currency-Convertor)
+
+### Movie Search App
+
+A responsive movie search application that retrieves movie information through an API.
+
+- [Live Demo](https://moviesearchapp001.netlify.app/)
+- [GitHub](https://github.com/AshifAnsari01/movie-search-app)
+
+## Experience
+
+### Web Development Intern — CodSoft
+
+Jul 2023 – Aug 2023
+
+Gained hands-on experience in web development by building responsive web interfaces and implementing frontend functionality using modern web technologies.
+
+## Education
+
+**Bachelor of Technology — Artificial Intelligence & Machine Learning**
+
+Techno International New Town  
+2021 – 2025
+
+## Contact
+
+- Email: ashif7366@gmail.com
+- LinkedIn: https://www.linkedin.com/in/md-ashif-ansari/
+- GitHub: https://github.com/AshifAnsari01
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AshifAnsari01/ashif-portfolio.git
