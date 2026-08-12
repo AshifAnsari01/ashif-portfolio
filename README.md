@@ -4,7 +4,7 @@ A modern, responsive developer portfolio built with React.js and Tailwind CSS to
 
 ## Live Portfolio
 
-View Portfolio https://ashifansariportfolio.netlify.app/
+[View Portfolio] https://ashifansariportfolio.netlify.app/
 
 ## About
 
