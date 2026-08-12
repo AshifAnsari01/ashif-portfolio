@@ -1,0 +1,21 @@
+@import "tailwindcss" source(none);
+
+@source "../src/App.jsx";
+@source "../src/components/Navbar.jsx";
+@source "../src/components/Hero.jsx";
+@source "../src/components/About.jsx";
+@source "../src/components/Skills.jsx";
+@source "../src/components/Projects.jsx";
+@source "../src/components/Experience.jsx";
+@source "../src/components/Education.jsx";
+@source "../src/components/Contact.jsx";
+@source "../src/components/Footer.jsx";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
